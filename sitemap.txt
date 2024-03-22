@@ -1,5 +1,8 @@
+https://yarchen.github.io/2024/03/21/Linux%E6%9F%A5%E7%9C%8B%E7%BD%91%E7%BB%9C%E6%B5%81%E9%87%8F%E7%9A%84%E6%96%B9%E6%B3%95/
+https://yarchen.github.io/2024/03/20/Linux%E8%87%AA%E5%8A%A8%E8%BF%90%E8%A1%8C%E8%84%9A%E6%9C%AC%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95/
+https://yarchen.github.io/2024/03/21/adb%E4%BD%BF%E7%94%A8/
 https://yarchen.github.io/2024/03/20/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E6%A1%A3/
 https://yarchen.github.io/categories/index.html
 https://yarchen.github.io/tags/index.html
-https://yarchen.github.io/2024/03/19/hello-world/
 https://yarchen.github.io/
+https://yarchen.github.io/categories/Linux/
